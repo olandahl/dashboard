@@ -1,0 +1,36 @@
+#dashboard {
+	padding: 20px;
+	font-family: Arial, sans-serif;
+}
+
+#dashboard .title,
+#dashboard .date {
+	padding: 5px 0;
+	color: #878787;
+}
+
+#dashboard .title {
+	font-size: 50px;
+}
+
+#dashboard .date {
+	padding-bottom: 20px;
+	font-size: 30px;
+}
+
+#dashboard .vis {
+	padding: 10px;
+	opacity: 0.7;
+	cursor: pointer;
+}
+
+#dashboard .vis:hover {
+	opacity: 1;
+}
+
+#dashboard .vis .value {
+}
+
+#dashboard .vis .bars {
+	
+}
